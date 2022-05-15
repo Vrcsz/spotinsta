@@ -7,9 +7,9 @@ require_once 'Settings.php';
 error_reporting(0);
 
 
-$username = '';
+$username = 'phsjsgsshsgs';
 
-$password = '';
+$password = 'Eyupguc254';
 
 $sizinemailiniz = '';
 
